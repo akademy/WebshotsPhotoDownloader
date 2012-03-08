@@ -1,6 +1,8 @@
 Webshots Photo Download
 -----------------------
 
+Main code now on BitBucket: https://bitbucket.org/akademy/webshotsphotodownloader/overview
+
 Download all the photos you have on webshots in the highest resolution they have. The downloads will be divided into folders by album name.
 
 To use it just call:
